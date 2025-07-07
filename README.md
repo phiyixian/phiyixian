@@ -1,6 +1,7 @@
 <h1 align="center">🌿 Hey, I'm Phi Yi Xian 👩🏻‍💻</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phiyixian&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/phiyixian"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/phi-yi-xian-0160781b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:priverco5614@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
