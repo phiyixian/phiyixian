@@ -68,6 +68,18 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phiyixian&theme=radical" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phiyixian&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phiyixian&theme=radical" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phiyixian&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phiyixian&theme=radical&utcOffset=8" alt="Commits per Hour"/>
+</p>
+
+---
+
 ## 🎯 Outside the Code  
 
 - Journalism & advocacy for education equity (Projek Anak Malaysia)  
