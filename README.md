@@ -33,6 +33,13 @@
     <th>Description</th>
     <th>Link</th>
   </tr>
+
+  <tr>
+    <td><img src="https://img.shields.io/badge/Completed-grey?style=flat-square"/></td>
+    <td>🌿 EcoQuest (DevMatch 2025)</td>
+    <td>Extension linked micropayments dashboard</td>
+    <td><a href="https://github.com/phiyixian/EcoQuest-DevMatch-2025-">View Project</a></td>
+  </tr>
   
   <tr>
     <td><img src="https://img.shields.io/badge/2nd%20Runner%20Up-blue?style=flat-square"/></td>
