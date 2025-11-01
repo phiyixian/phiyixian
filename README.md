@@ -35,6 +35,13 @@
   </tr>
 
   <tr>
+    <td><img src="https://img.shields.io/badge/Champion-44cc11?style=flat-square"/></td>
+    <td>🚀 DeluluHack 2025 (Uwu Core)</td>
+    <td>Long Distance Relationship Couples App using React Native</td>
+    <td><a href="https://github.com/phiyixian/soulsync">View Project</a></td>
+  </tr>
+  
+  <tr>
     <td><img src="https://img.shields.io/badge/Completed-grey?style=flat-square"/></td>
     <td>🌿 EcoQuest (DevMatch 2025)</td>
     <td>Extension linked micropayments dashboard</td>
