@@ -35,6 +35,13 @@
   </tr>
 
   <tr>
+    <td><img src="https://img.shields.io/badge/2nd%20Runner%20Up-blue?style=flat-square"/></td>
+    <td>💊 UM AI in Medicine Hackathon 2025 (Uwu Core)</td>
+    <td>AI-enabled Hand Grip Strength and Finger Flexibility Monitoring and Rehabilitation Device.</td>
+    <td><a href="https://github.com/phiyixian/handee-arduino">View Project</a></td>
+  </tr>
+
+  <tr>
     <td><img src="https://img.shields.io/badge/Champion-44cc11?style=flat-square"/></td>
     <td>🚀 DeluluHack 2025 (Uwu Core)</td>
     <td>Long Distance Relationship Couples App using React Native</td>
