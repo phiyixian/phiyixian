@@ -35,6 +35,13 @@
   </tr>
 
   <tr>
+    <td><img src="https://img.shields.io/badge/Champion-44cc11?style=flat-square"/></td>
+    <td>🛠️ CREST Medical Devices Grand Design Challenge 2025</td>
+    <td>PalletEye: Rasp Pi 5 Camera Vision Pallet Defect Detection System on Conveyer Belt</td>
+    <td><a href="https://github.com/phiyixian/rpicam-test">View Project</a></td>
+  </tr>
+
+  <tr>
     <td><img src="https://img.shields.io/badge/2nd%20Runner%20Up-blue?style=flat-square"/></td>
     <td>💊 UM AI in Medicine Hackathon 2025 (Uwu Core)</td>
     <td>AI-enabled Hand Grip Strength and Finger Flexibility Monitoring and Rehabilitation Device.</td>
