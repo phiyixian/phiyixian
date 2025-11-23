@@ -15,7 +15,7 @@
 
 ## 🛠️ About Me
 
-- 🎓 Year 1 Electrical Engineering @ Universiti Malaya  
+- 🎓 Year 2 Electrical Engineering @ Universiti Malaya  
 - 🧠 Exploring AI, IoT, sustainable tech & systems that make life smarter  
 - 💡 Hands-on with real projects: rescue robots, smart recycling bins, solar workshops, and more  
 - 🐍 Python | 🖥️ Flutter | ⚡ ESP32 | 🔊 BLE | 🗑️ Waste Tech | ☀️ Solar Projects  
